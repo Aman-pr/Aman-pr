@@ -82,7 +82,7 @@ Here are a few standout projects:
 
 ## 📫 How to Reach Me
 
-- 📧 Email: your.email@example.com
+- 📧 Email: amankhan2729@gmail.com
 - 💼 LinkedIn: [Your LinkedIn](#)
 - 🌐 [Other Portfolio/Socials]
 
