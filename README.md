@@ -83,7 +83,7 @@ Here are a few standout projects:
 ## 📫 How to Reach Me
 
 - 📧 Email: amankhan2729@gmail.com
-- 💼 LinkedIn: [Your LinkedIn](#)
+- 💼 LinkedIn: www.linkedin.com/in/md-aman2729
 - 🌐 [Other Portfolio/Socials]
 
 ---
