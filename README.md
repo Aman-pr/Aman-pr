@@ -41,9 +41,9 @@
 - Developed a Java-based tool to initialize repositories and handle commits, branches, and Git internals
 
 ### **Arduino UNO Projects**
-- **Distance meter:** Ultrasonic sensors
-- **Robotic vehicle:** Light & ultrasonic sensors
-- **Hydration detection:** Water detection sensor
+- **Distance meter:** Ultrasonic sensors  
+- **Robotic vehicle:** Light & ultrasonic sensors  
+- **Hydration detection:** Water detection sensor  
 
 ---
 
@@ -74,7 +74,8 @@ Here are a few standout projects:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aman-pr&show_icons=true&theme=default" alt="Aman's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-pr&theme=default" alt="Aman's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Aman-pr&theme=default&t=1" />
+  <img src="https://streak-stats.demolab.com?user=Aman-pr&theme=default" alt="Aman's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-pr&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
@@ -82,13 +83,12 @@ Here are a few standout projects:
 
 ## 📫 How to Reach Me
 
-- 📧 Email: amankhan2729@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/md-aman2729
-- 🌐 [Other Portfolio/Socials]
+- 📧 Email: amankhan2729@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/md-aman2729](https://www.linkedin.com/in/md-aman2729)  
+- 🌐 [Other Portfolio/Socials]  
 
 ---
 
-<!-- Badges and extras can be added with [Shields.io](https://shields.io) -->
+<!-- Badges and extras can be added with Shields.io -->
 
 ✨ _Let's create, innovate, and solve together!_
-
