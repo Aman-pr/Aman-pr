@@ -73,6 +73,9 @@ Here are a few standout projects:
 ## 📊 GitHub Stats
 
 <p align="center">
+![Github Stats 3](https://github-readme-stats.vercel.app/api?username=Aman-pr)
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Aman-pr)
+![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-pr)
   <img src="https://streak-stats.demolab.com?user=Aman-pr&theme=default&t=1" alt="Aman's GitHub Stats"/>
   <img src="https://streak-stats.demolab.com?user=Aman-pr&theme=default" alt="Aman's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-pr&layout=compact&theme=default" alt="Top Languages" />
